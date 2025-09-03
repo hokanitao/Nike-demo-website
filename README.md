@@ -1,12 +1,52 @@
-# React + Vite
+# Nike Website Clone (Learning Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **practice project** recreating a Nike landing page using **React** and **Tailwind CSS**.  
+It follows [Adrian Twarog's YouTube tutorial](https://www.youtube.com/watch?v=tS7upsfuxmo&t=616s).  
 
-Currently, two official plugins are available:
+⚠️ **Disclaimer**  
+This project is built for **educational purposes only**.  
+It is **not an official Nike website** and is not affiliated with Nike in any way.  
+All images, logos, and brand names belong to their respective owners.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
+- [React](https://reactjs.org/) – component-based UI  
+- [Tailwind CSS](https://tailwindcss.com/) – utility-first styling  
+- [Vite](https://vitejs.dev/) – fast dev server & bundler  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+-	Responsive landing page layout
+-	Hero section with product showcase
+-	Customer reviews section
+-	Smooth design with Tailwind utilities
+
+ ---
+ 
+## 🎯 Learning Goals
+-	Practice with React components & props
+-	Responsive design patterns in Tailwind
+-	Experience building a modern landing page UI
+ 
+ ---
+
+## 🙏 Credits
+-	Tutorial by Adrian Twarog
+ 
+-	Nike brand assets used for educational purposes only
+
+ ---
+
+## 📦 Installation
+```bash
+# clone the repo
+git clone <your-repo-url>
+cd nike-clone
+
+# install dependencies
+npm install
+
+# start dev server
+npm run dev
